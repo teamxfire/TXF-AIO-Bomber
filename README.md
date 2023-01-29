@@ -30,7 +30,7 @@
   
  ## Support 
   
- For support <a href="https://t.me/CyberExpertMamun">(Telegram)</a>
+ For support <a href="https://t.me/teamxfire">(Telegram)</a>
   
   
  ## Download  
