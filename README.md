@@ -23,6 +23,8 @@
  ## Features 
   
   APP NAME: VX BOMBER
+
+
    VERSION: 1.2
   
  Features:  
