@@ -29,8 +29,9 @@
  - 2) Unlimited Bombing
  - 3) No Limit Sms
  - 4) 15+ SMS Bombing Api
- - 5) 3 Call Bombing Api
+ - 5) 1 Call Bombing Api
  - 6) Telegram Bombing
+ - 7) MAIL SPOOFING 
   
   
   
@@ -40,5 +41,5 @@
   
   
  ## Download  
- <a href="https://github.com/teamxfire/TXF-AIO-Bomber/raw/main/VX%20SMS%20BOMBER%201.1.apk">DOWNLOAD NOW</a> 
+ <a href="https://github.com/teamxfire/TXF-AIO-Bomber/raw/main/VX%20SMS%20BOMBER_1.2.apk">DOWNLOAD NOW</a> 
  
